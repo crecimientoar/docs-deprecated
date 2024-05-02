@@ -28,13 +28,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/operacion-crecimiento/oc-websites',
+            'https://github.com/CrecimientoAr/docs',
         },
         blog: {
           showReadingTime: true,
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/operacion-crecimiento/oc-websites',
+            'https://github.com/CrecimientoAr/docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
