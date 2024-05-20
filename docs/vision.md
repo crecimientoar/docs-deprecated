@@ -2,6 +2,11 @@
 
 There is a window opportunity to build in Argentina....This is the moment, Seize it!
 
+Three pillars:
+Bringing 5 to 10 million people on-chain with great products
+Making Argentina’s tech startup ecosystem 10x larger and better through funding and support
+Giving startups 20-year stability by establishing a new regulatory framework 
+
 ​​[Crecimiento Vision](https://docs.google.com/presentation/d/1lEigM6HoVLWIqsy0LkLJndGTLF3au1KxwrHadepwov8/edit#slide=id.g1f7d9e478bf_7_1103)
 
 [Argentina’s Tech & Crypto Economies](https://docs.google.com/presentation/d/14r8oIZsxE2YsAeACry6FkSEz8zxfCwuEgeA_TdVk9wE/edit#slide=id.g1f7e64f38e5_1_360)
